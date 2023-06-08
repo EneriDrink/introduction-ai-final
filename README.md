@@ -4,11 +4,11 @@ This GitHub repository offers a template specifically designed to teach students
 
 # Project Title
 
-[Enter the title of your project]
+[Breaking Language Barriers: Building an Intelligent Email Translator AI]
 
 ## Project Description
 
-[Enter a brief description of your project, including the data you used and the analytical methods you applied. Be sure to provide context for your project and explain why it is important.]
+[The primary objective of this project is to develop an artificial intelligence (AI) powered email translator specifically tailored for international students. The proposed AI system will efficiently translate Chinese emails into English, thereby removing language barriers and ensuring equal access to academic information and resources for all students. This school email translator AI will serve as a vital tool, enabling international students to comprehend crucial details such as assignments, campus events, administrative updates, and dormitory information. ]
 
 ## Getting Started
 
