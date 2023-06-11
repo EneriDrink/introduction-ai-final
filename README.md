@@ -4,7 +4,7 @@ This GitHub repository offers a template specifically designed to teach students
 
 # Project Title
 
-[Breaking Language Barriers: Building an Intelligent Email Translator AI]
+#[Breaking Language Barriers: Building an Intelligent Email Translator AI]
 
 ## Project Description
 
