@@ -4,11 +4,12 @@ This GitHub repository offers a template specifically designed to teach students
 
 # Project Title
 
-#[Breaking Language Barriers: Building an Intelligent Email Translator AI]
+[Breaking Language Barriers: Building an Intelligent Email Translator AI]
 
 ## Project Description
 
-[The primary objective of this project is to develop an artificial intelligence (AI) powered email translator specifically tailored for international students. The proposed AI system will efficiently translate Chinese emails into English, thereby removing language barriers and ensuring equal access to academic information and resources for all students. This school email translator AI will serve as a vital tool, enabling international students to comprehend crucial details such as assignments, campus events, administrative updates, and dormitory information. ]
+[Every day, international students in National Chengchi University receive a significant number of school emails regarding various school events. However, due to the emails being written in Chinese and the sheer volume of messages received, the task of individually opening, translating, and deciding which events to participate in becomes incredibly time-consuming. Consequently, many international students refrain from opening these emails altogether, inadvertently missing out on numerous interesting and important school events.
+The primary objective of this project is to develop an artificial intelligence (AI) powered email translator specifically tailored for international students. The proposed AI system will efficiently translate Chinese emails into English, thereby removing language barriers and ensuring equal access to academic information and resources for all students. This school email translator AI will serve as a vital tool, enabling international students to comprehend crucial details such as assignments, campus events, administrative updates, and dormitory information.]
 
 ## Getting Started
 
