@@ -4,8 +4,8 @@
 
 ## 🌷 Project Description
 
-[Every day, international students in National Chengchi University receive a significant number of school emails regarding various school events. However, due to the emails being written in Chinese and the sheer volume of messages received, the task of individually opening, translating, and deciding which events to participate in becomes incredibly time-consuming. Consequently, many international students refrain from opening these emails altogether, inadvertently missing out on numerous interesting and important school events.
-The primary objective of this project is to develop an ***artificial intelligence (AI) powered email translator*** specifically tailored for international students. The proposed AI system will ***efficiently translate Chinese emails into English, thereby removing language barriers and ensuring equal access to academic information and resources for all students.*** This school email translator AI will serve as a vital tool, enabling international students to comprehend crucial details such as assignments, campus events, administrative updates, and dormitory information.]
+Every day, international students in National Chengchi University receive a significant number of school emails regarding various school events. However, due to the emails being written in Chinese and the sheer volume of messages received, the task of individually opening, translating, and deciding which events to participate in becomes incredibly time-consuming. Consequently, many international students refrain from opening these emails altogether, inadvertently missing out on numerous interesting and important school events.
+The primary objective of this project is to develop an ***artificial intelligence (AI) powered email translator*** specifically tailored for international students. The proposed AI system will ***efficiently translate Chinese emails into English, thereby removing language barriers and ensuring equal access to academic information and resources for all students.*** This school email translator AI will serve as a vital tool, enabling international students to comprehend crucial details such as assignments, campus events, administrative updates, and dormitory information.
 
 ## 🫧 Getting Started
 
@@ -30,6 +30,12 @@ Our comparison table
 
 [Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.//
 In conclusion, the evaluation of translation models for Chinese-to-English email translation clearly demonstrates that OpenAI outperforms LibreTranslate and Hugging Face in terms of reliability and accuracy. OpenAI consistently provides accurate and contextually appropriate translations, ensuring international students receive clear and comprehensible information. In contrast, LibreTranslate's literal translation approach often leads to confusing and nonsensical translations, limiting its reliability as an effective email translation solution. The advanced language models and extensive training of OpenAI contribute to its superior performance, enabling international students to overcome language barriers and actively engage with academic resources. Therefore, ***OpenAI*** is recommended as the preferred choice for the proposed email translation solution, ensuring reliable and accessible translations for international students. Continuous monitoring and staying up-to-date with advancements in translation technology will be essential to maintain the reliability and effectiveness of the solution.]
+
+| APIs | Summary |
+| --------- | -------------- |
+| ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) | Most Accurate, Able to understand the context and make the approprite translation |
+| ![Google Translate](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | Able to translate every word but lacks understanding of the context |
+| ![Huggingface🤗] | Is **not** reliable enough to produce the correct translation in any situation. However, it performs a bit better when there is english word intergrated into the emails |
 
 ## 🍀 Contributors
 
