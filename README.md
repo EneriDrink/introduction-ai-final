@@ -34,7 +34,7 @@ In conclusion, the evaluation of translation models for Chinese-to-English email
 | APIs | Summary |
 | --------- | -------------- |
 | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) | Most Accurate, Able to understand the context and make the approprite translation |
-| ![Google Translate](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | Able to translate every word but lacks understanding of the context |
+| ![Google Translate](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20translate&logoColor=white) | Able to translate every word but lacks understanding of the context |
 | ![Huggingface🤗] | Is **not** reliable enough to produce the correct translation in any situation. However, it performs a bit better when there is english word intergrated into the emails |
 
 ## 🍀 Contributors
