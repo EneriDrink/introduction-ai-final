@@ -15,9 +15,11 @@ Which is why the primary objective of this project is to develop an ***artificia
 ## 🪐 File Structure
 
 [Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
-= Preprocessed Dataset
-= Open AI translation code
-= Hugging Face translation code
++ Preprocessed Dataset (.csv or google sheets)
++ Open AI  code
++ Hugging Face code
++ Google translate code
++ outputs
 
 ## 🌼 Analysis
 
