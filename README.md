@@ -1,7 +1,6 @@
 
 # 🌱 Project Title 
 ![nccuintellibox](https://github.com/EneriDrink/introduction-ai-final/assets/114038939/deb3fcd7-fc0a-4ec3-8c42-bce90907211f)
-## NCCU Intellibox : Breaking Language Barriers, an Intelligent Email Translator AI
 
 ## 🌷 Project Description
 
