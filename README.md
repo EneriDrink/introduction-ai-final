@@ -18,6 +18,7 @@ The primary objective of this project is to develop an artificial intelligence (
 ## Analysis
 
 [Describe your analysis methods and include any visualizations or graphics that you used to present your findings. Explain the insights that you gained from your analysis and how they relate to your research question or problem statement.\\
+Our comparison table
 | Tools              | Title        | Message  |
 | -------------      | ------------ | -------- |
 | `Original Message` | 自強服務中心通知 | 同學，您好： 2/23(四) 10:00-17:00將進行自九舍洗衣機更換，期間請勿使用洗衣機，造成不便敬請見諒，謝謝。|
@@ -32,12 +33,13 @@ In conclusion, the evaluation of translation models for Chinese-to-English email
 
 ## Contributors
 
-[List the contributors to your project and describe their roles and responsibilities.//
-`109ZU1014  創國三   陳鴻彬`
-`111ZU1033  創國一   黃  莉`
-`111703029  資科一   劉  白`
-`111703034  資科一   張佳佳`
-`111ZU1018  創國一   許瑈芸`]
+|Student ID |  Roles & Contributions |
+| --------- | ---------------------- |
+|`109ZU1014  創國三   陳鴻彬`| project manager, coding |
+|`111ZU1033  創國一   黃  莉`| coding, Making sure everyone does their job and helps |
+|`111703029  資科一   劉  白`| coding, github README |
+|`111703034  資科一   張佳佳`| coding, data preprocessing |
+|`111ZU1018  創國一   許瑈芸`| Data collection | ]
 
 ## Acknowledgments
 
