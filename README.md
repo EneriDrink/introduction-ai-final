@@ -15,6 +15,9 @@ Which is why the primary objective of this project is to develop an ***artificia
 ## 🪐 File Structure
 
 [Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
+= Preprocessed Dataset
+= Open AI translation code
+= Hugging Face translation code
 
 ## 🌼 Analysis
 
@@ -24,8 +27,8 @@ Our comparison table
 | -------------      | ------------ | -------- |
 | `Original Message` | 自強服務中心通知 | 同學，您好： 2/23(四) 10:00-17:00將進行自九舍洗衣機更換，期間請勿使用洗衣機，造成不便敬請見諒，謝謝。|
 | `Open AI`          | Notification from Zi Chiang  Service Center | Hello students, On February 23rd (Thursday) from 10:00 to 17:00, we will be replacing the washing machines in the 9th dormitory. During this period, please do not use the washing machines. We apologize for any inconvenience this may cause and thank you for your cooperation. Best regards. |
-| `Libre Translate`  | Notification by the Forced Center | You are good: 2/23 (iv) 1017:00 stereotypes are more developed from nine swashings, do not use washings, causing unrelenting of the indicators, etc. |
-| `Hugging Face`     |               | ]
+| `Hugging Face`  | Notification by the Forced Center | You are good: 2/23 (iv) 1017:00 stereotypes are more developed from nine swashings, do not use washings, causing unrelenting of the indicators, etc. |
+| `Google Translate` | Self-improvement service center notice | Hello, classmates: 2/23 (Thursday) 10:00-17:00 will replace the washing machine from Jiushe. Please do not use the washing machine during this period. Sorry for the inconvenience, thank you. ]
 
 ## ✨ Results
 
@@ -36,16 +39,17 @@ In conclusion, the evaluation of translation models for Chinese-to-English email
 | --------- | -------------- |
 | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) | Most Accurate, Able to understand the context and make the approprite translation |
 | ![Google Translate](https://img.shields.io/badge/google%20translate-4285F4?style=for-the-badge&logo=google%20translate&logoColor=white) | Able to translate every word but lacks understanding of the context |
-| ![Huggingface🤗](https://img.shields.io/badge/🤗Hugging%20Face-%23f2f2f2.svg?style=for-the-badge&logo=hugging%20face&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreTranslate-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)| Is **not** reliable enough to produce the correct translation in any situation. However, it performs a bit better when there is english word intergrated into the emails |
+| ![Huggingface🤗](https://img.shields.io/badge/🤗Hugging%20Face-%23f2f2f2.svg?style=for-the-badge&logo=hugging%20face&logoColor=white) | Is **not** reliable enough to produce the correct translation in any situation. However, it performs a bit better when there is english word intergrated into the emails |
 
 ## 🍀 Contributors
 
+group AI-07
 |Student ID |  Roles & Contributions |
 | --------- | ---------------------- |
-|`109ZU1014  創國三   陳鴻彬`| project manager, coding |
-|`111ZU1033  創國一   黃  莉`| coding, Making sure everyone does their job and helps |
-|`111703029  資科一   劉  白`| coding, github README |
-|`111703034  資科一   張佳佳`| coding, data preprocessing |
+|`109ZU1014  創國三   陳鴻彬`| project manager |
+|`111ZU1033  創國一   黃  莉`| coding, Making sure everyone does their job and helps, ppt |
+|`111703029  資科一   劉  白`| coding, github README file |
+|`111703034  資科一   張佳佳`| coding, data preprocessing, poster |
 |`111ZU1018  創國一   許瑈芸`| Data collection | ]
 
 ## 🍄 Acknowledgments
@@ -55,3 +59,4 @@ In conclusion, the evaluation of translation models for Chinese-to-English email
 ## 🌙 References
 
 [List any references or resources that you used during your project, including data sources, analytical methods, and tools.]
+link to Powerpoint & Poster
