@@ -1,6 +1,6 @@
 # 🌱 Project Title
 
-[NCCU Intellibox : Breaking Language Barriers, an Intelligent Email Translator AI]
+## NCCU Intellibox : Breaking Language Barriers, an Intelligent Email Translator AI
 
 ## 🌷 Project Description
 
