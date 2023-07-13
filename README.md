@@ -30,7 +30,7 @@ Our comparison table
 | `Original Message` | 自強服務中心通知 | 同學，您好： 2/23(四) 10:00-17:00將進行自九舍洗衣機更換，期間請勿使用洗衣機，造成不便敬請見諒，謝謝。|
 | `Open AI`          | Notification from Zi Chiang  Service Center | Hello students, On February 23rd (Thursday) from 10:00 to 17:00, we will be replacing the washing machines in the 9th dormitory. During this period, please do not use the washing machines. We apologize for any inconvenience this may cause and thank you for your cooperation. Best regards. |
 | `Hugging Face`  | Notification by the Forced Center | You are good: 2/23 (iv) 1017:00 stereotypes are more developed from nine swashings, do not use washings, causing unrelenting of the indicators, etc. |
-| `Google Translate` | Self-improvement service center notice | Hello, classmates: 2/23 (Thursday) 10:00-17:00 will replace the washing machine from Jiushe. Please do not use the washing machine during this period. Sorry for the inconvenience, thank you. ]
+| `Google Translate` | Self-improvement service center notice | Hello, classmates: 2/23 (Thursday) 10:00-17:00 will replace the washing machine from Jiushe. Please do not use the washing machine during this period. Sorry for the inconvenience, thank you. |
 
 ## ✨ Results
 
