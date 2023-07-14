@@ -1,4 +1,3 @@
-
 # 🌱 Project Title 
 ![nccuintellibox](https://github.com/EneriDrink/introduction-ai-final/assets/114038939/deb3fcd7-fc0a-4ec3-8c42-bce90907211f)
 
@@ -49,7 +48,7 @@ group AI-07
 |Student ID |  Roles & Contributions |
 | --------- | ---------------------- |
 |`109ZU1014  創國三   陳鴻彬`| project manager |
-|`111ZU1033  創國一   黃  莉`| coding, Making sure everyone does their job and helps, ppt |
+|`111ZU1033  創國一   黃  莉`| coding, Making sure everyone does their job and helps, poster, ppt |
 |`111703029  資科一   劉  白`| coding, github README file |
 |`111703034  資科一   張佳佳`| coding, data preprocessing, poster |
 |`111ZU1018  創國一   許瑈芸`| Data collection | ]
