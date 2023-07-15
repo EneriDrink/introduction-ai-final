@@ -60,10 +60,14 @@ group AI-07
 LINK GOOGLE COLAB
 
 `open ai` https://colab.research.google.com/drive/15n6P1RblyzHqIiIWi0P_W2jqC52-DmC4?usp=sharing
+
 `OpenAI and Google Translate, manually translated` https://colab.research.google.com/drive/1migTqAddNFUWzm6cEjsWJRgSwoycNdyz?usp=sharing 
+
 `Hugging Face model` https://colab.research.google.com/drive/1Ci63rcMOwJIP1mWTnWP-i4bS-ZfjzKbm?usp=sharing 
 
+
 `Information about our AI` https://www.canva.com/design/DAFl0eAvEoQ/CjOGlJKFs8jvLfBjKXlFrw/view?utm_content=DAFl0eAvEoQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+
 `Translation Results` https://docs.google.com/spreadsheets/d/1CiDBNIqVxQqycSCenYy0p3_rOnDrDetDBDeGWaH_Zn4/edit?usp=sharing 
 
  
