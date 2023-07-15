@@ -9,7 +9,33 @@ Which is why the primary objective of this project is to develop an ***artificia
 
 ## 🫧 Getting Started
 
-[Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
+# pake LibreTranslate
+
+## Steps
+
+- make sure python is installed
+- make new virtual env:
+```bash
+python3 -m venv ./venv 
+```
+
+- activate virtual env
+```bash
+source venv/bin/activate  
+```
+
+- install requirements:
+
+```bash
+pip install requirements.txt
+```
+
+- run the script( it takes more or less 16 minutes):
+
+```
+python main.py
+```
+
 
 ## 🪐 File Structure
 
