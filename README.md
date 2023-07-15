@@ -58,7 +58,8 @@ group AI-07
 
 ## 🌙 References
 
-LINK GOOGLE COLAB 
+LINK GOOGLE COLAB
+
 `open ai` https://colab.research.google.com/drive/15n6P1RblyzHqIiIWi0P_W2jqC52-DmC4?usp=sharing
 `OpenAI and Google Translate, manually translated` https://colab.research.google.com/drive/1migTqAddNFUWzm6cEjsWJRgSwoycNdyz?usp=sharing 
 `Hugging Face model` https://colab.research.google.com/drive/1Ci63rcMOwJIP1mWTnWP-i4bS-ZfjzKbm?usp=sharing 
