@@ -13,7 +13,6 @@ Which is why the primary objective of this project is to develop an ***artificia
 
 ## 🪐 File Structure
 
-[Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
 + Preprocessed Dataset (.csv or google sheets)
 + Open AI  code
 + Hugging Face code
@@ -59,13 +58,12 @@ group AI-07
 
 ## 🌙 References
 
-[List any references or resources that you used during your project, including data sources, analytical methods, and tools.]
-LINK GOOGLE COLAB
-https://colab.research.google.com/drive/15n6P1RblyzHqIiIWi0P_W2jqC52-DmC4?usp=sharing (OpenAI)
-https://colab.research.google.com/drive/1migTqAddNFUWzm6cEjsWJRgSwoycNdyz?usp=sharing (OpenAI and Google Translate, manually translated)
-https://colab.research.google.com/drive/1Ci63rcMOwJIP1mWTnWP-i4bS-ZfjzKbm?usp=sharing (Hugging Face model)
+LINK GOOGLE COLAB 
+`open ai` https://colab.research.google.com/drive/15n6P1RblyzHqIiIWi0P_W2jqC52-DmC4?usp=sharing
+`OpenAI and Google Translate, manually translated` https://colab.research.google.com/drive/1migTqAddNFUWzm6cEjsWJRgSwoycNdyz?usp=sharing 
+`Hugging Face model` https://colab.research.google.com/drive/1Ci63rcMOwJIP1mWTnWP-i4bS-ZfjzKbm?usp=sharing 
 
-https://www.canva.com/design/DAFl0eAvEoQ/CjOGlJKFs8jvLfBjKXlFrw/view?utm_content=DAFl0eAvEoQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer (Information about our AI)
-https://docs.google.com/spreadsheets/d/1CiDBNIqVxQqycSCenYy0p3_rOnDrDetDBDeGWaH_Zn4/edit?usp=sharing (Translation Results)
+`Information about our AI` https://www.canva.com/design/DAFl0eAvEoQ/CjOGlJKFs8jvLfBjKXlFrw/view?utm_content=DAFl0eAvEoQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+`Translation Results` https://docs.google.com/spreadsheets/d/1CiDBNIqVxQqycSCenYy0p3_rOnDrDetDBDeGWaH_Zn4/edit?usp=sharing 
 
  
