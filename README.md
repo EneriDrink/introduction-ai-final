@@ -45,8 +45,7 @@ python main.py
 
 ## 🌼 Analysis
 
-[Describe your analysis methods and include any visualizations or graphics that you used to present your findings. Explain the insights that you gained from your analysis and how they relate to your research question or problem statement.\\
-Our comparison table
+Our result comparison table
 | Tools              | Title        | Message  |
 | -------------      | ------------ | -------- |
 | `Original Message` | 自強服務中心通知 | 同學，您好： 2/23(四) 10:00-17:00將進行自九舍洗衣機更換，期間請勿使用洗衣機，造成不便敬請見諒，謝謝。|
