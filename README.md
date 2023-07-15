@@ -69,15 +69,23 @@ In conclusion, the evaluation of translation models for Chinese-to-English email
 group AI-07
 |Student ID |  Roles & Contributions |
 | --------- | ---------------------- |
-|`109ZU1014  創國三   陳鴻彬`| project manager |
-|`111ZU1033  創國一   黃  莉`| coding, Making sure everyone does their job and helps, poster, ppt |
-|`111703029  資科一   劉  白`| coding, github README file |
+|`109ZU1014  創國三   陳鴻彬`| project manager, reasearch, project presentation |
+|`111ZU1033  創國一   黃  莉`| coding, research, debugging, Making sure everyone does their job and helps, poster, ppt |
+|`111703029  資科一   劉  白`| coding, research, debugging, github README file |
 |`111703034  資科一   張佳佳`| coding, data preprocessing, poster |
-|`111ZU1018  創國一   許瑈芸`| Data collection | ]
+|`111ZU1018  創國一   許瑈芸`| Data collection and ensure the dataset's quailty | ]
 
 ## 🍄 Acknowledgments
 
-[Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
+We would like to express our sincere gratitude to the following team members for their contributions (as shown above) to the development of our NCCU Intellibox, Chinese-to-English email translation AI:
+
++ 陳鴻彬
++ 黃  莉
++ 劉  白
++ 張佳佳
++ 許瑈芸
+
+We would also like to extend our sincere appreciation to our instructor, Professor  **Chung-pei Pien (卞中佩)**, for their guidance, expertise, and unwavering support throughout this project.
 
 ## 🌙 References
 
