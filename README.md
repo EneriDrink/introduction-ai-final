@@ -9,9 +9,7 @@ Which is why the primary objective of this project is to develop an ***artificia
 
 ## 🫧 Getting Started
 
-# pake LibreTranslate
-
-## Steps
+**Steps**
 
 - make sure python is installed
 - make new virtual env:
