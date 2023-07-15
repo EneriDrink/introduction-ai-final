@@ -80,7 +80,7 @@ group AI-07
 We would like to express our sincere gratitude to the following team members for their contributions (as shown above) to the development of our NCCU Intellibox, Chinese-to-English email translation AI:
 
 + 陳鴻彬
-+ 黃  莉
++ 黃   莉
 + 劉  白
 + 張佳佳
 + 許瑈芸
