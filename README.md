@@ -81,7 +81,7 @@ group AI-07
 
 ## 🌙 References
 
-LINK GOOGLE COLAB
+GOOGLE COLAB LINKS
 
 `open ai` https://colab.research.google.com/drive/15n6P1RblyzHqIiIWi0P_W2jqC52-DmC4?usp=sharing
 
