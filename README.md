@@ -37,7 +37,7 @@ python main.py
 
 ## 🪐 File Structure
 
-+ Preprocessed Dataset (.csv or google sheets)
++ Preprocessed Dataset (google sheets)
 + Open AI  code
 + Hugging Face code
 + Google translate code
